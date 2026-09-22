@@ -1,39 +1,89 @@
-# 👋 Olá, eu sou Gabriel!
+<div align="center">
 
-🎓 Estudante de **Ciência da Computação** e desenvolvedor em formação.
+# Olá, eu sou Gabriel! 👋
 
-💻 Tenho interesse em **desenvolvimento de software, programação e tecnologia**, sempre buscando aprender novas ferramentas e transformar conhecimento em projetos práticos.
+### Estudante de Ciência da Computação • Desenvolvedor em formação
 
-## 🚀 Sobre mim
+Transformando aprendizado em código e ideias em projetos.
 
-* 🎓 Graduando em Ciência da Computação
-* 💻 Estudando **Java, Python, HTML e CSS**
-* 🌐 Experiência com **desenvolvimento Web**
-* 🧠 Sempre buscando evoluir meus conhecimentos em programação
-* 🤝 Gosto de trabalhar em equipe e desenvolver projetos colaborativos
-* 📚 Atualmente focado em construir uma base sólida em desenvolvimento de software
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
 
-## 🛠️ Tecnologias
-
-<div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-
-## 📂 Projetos
-
-Aqui você encontrará projetos desenvolvidos durante minha graduação e meus estudos, além de experimentos e aplicações criadas para colocar meus conhecimentos em prática.
-
-## 🎯 Objetivo
-
-Estou construindo minha trajetória na área de tecnologia, buscando constantemente **aprender, criar e evoluir** como desenvolvedor.
-
-> **"O melhor código é aquele que nasce da vontade de aprender."**
 
 ---
 
-⭐ Sinta-se à vontade para explorar meus repositórios!
+## 👨‍💻 Sobre mim
+
+Sou graduando em **Ciência da Computação**, apaixonado por tecnologia e pelo processo de transformar conhecimento em soluções práticas.
+
+Atualmente, estou construindo uma base sólida em desenvolvimento de software, explorando diferentes linguagens, ferramentas e conceitos por meio de estudos e projetos pessoais.
+
+- 🎓 Graduando em **Ciência da Computação**
+- 💻 Estudando **Java, Python, HTML e CSS**
+- 🌐 Desenvolvendo projetos voltados para a Web
+- 🧠 Aprimorando lógica de programação e boas práticas
+- 🤝 Interessado em projetos colaborativos e trabalho em equipe
+- 🚀 Em constante evolução como desenvolvedor
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode&theme=dark" alt="Tecnologias: Java, Python, HTML, CSS, Git, GitHub e Visual Studio Code" />
+
+</div>
+
+## 📚 Atualmente estudando
+
+```text
+☕ Java              → Programação orientada a objetos
+🐍 Python            → Lógica, automação e desenvolvimento
+🌐 HTML e CSS        → Estruturação e estilização de páginas
+🔧 Git e GitHub      → Versionamento e colaboração
+```
+
+## 📂 Projetos
+
+Meus repositórios reúnem projetos desenvolvidos durante a graduação, estudos independentes e experimentos criados para colocar novos conhecimentos em prática.
+
+Cada projeto representa uma etapa da minha evolução, desde os fundamentos da programação até a construção de aplicações mais completas.
+
+> Novos projetos serão adicionados conforme avanço nos estudos.
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Gabriel" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Gabriel" />
+
+</div>
+
+## 🎯 Objetivo
+
+Meu objetivo é evoluir continuamente como desenvolvedor, participando de projetos desafiadores e criando soluções que gerem impacto positivo.
+
+Busco oportunidades para **aprender, colaborar e transformar conhecimento em resultados reais**.
+
+---
+
+<div align="center">
+
+### Vamos construir algo juntos?
+
+Sinta-se à vontade para explorar meus repositórios, acompanhar minha evolução ou entrar em contato.
+
+<br>
+
+> “Cada projeto é uma oportunidade de aprender algo novo.”
+
+<br>
+
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=6C63FF&style=flat-square&label=Visualizações+do+perfil)
+
+⭐ Obrigado pela visita!
+
+</div>

@@ -3,7 +3,7 @@
 <h3 align="center">Estudante de Ciência da Computação | Desenvolvedor em formação</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudando+Java%2C+Python%2C+HTML+e+CSS;Construindo+projetos+e+aprendendo+na+pr%C3%A1tica;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudando+Java%2C+Python%2C+HTML%2C+CSS+e+JavaScript;Construindo+projetos+e+aprendendo+na+pr%C3%A1tica;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
 </p>
 
 <p align="center">

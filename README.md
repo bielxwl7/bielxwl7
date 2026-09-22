@@ -28,7 +28,7 @@
 - 🧠 Sempre buscando evoluir meus conhecimentos em programação
 - 🤝 Gosto de trabalhar em equipe e desenvolver projetos colaborativos
 - 📚 Atualmente focado em construir uma base sólida em desenvolvimento de software
-- ⚡ Objetivo atual: **aprofundar em [ex: Spring Boot / desenvolvimento backend]**
+- ⚡ Objetivo atual: **aprofundar em desenvolvimento Fullstack.**
 
 ---
 

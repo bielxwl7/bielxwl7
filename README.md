@@ -23,7 +23,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Graduando em **Ciência da Computação**
-- 💻 Estudando **Java, Python, HTML e CSS**
+- 💻 Estudando **Java, Python, HTML, CSS e JavaScript**
 - 🌐 Experiência com **desenvolvimento Web**
 - 🧠 Sempre buscando evoluir meus conhecimentos em programação
 - 🤝 Gosto de trabalhar em equipe e desenvolver projetos colaborativos
